@@ -1,0 +1,9 @@
+venv/
+*.pyc
+*.pyo
+.env
+.idea/
+__pycache__/
+graphing_practice.py
+main2.py
+qodana.yaml
